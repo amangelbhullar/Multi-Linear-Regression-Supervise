@@ -1,4 +1,4 @@
-# Multi-Linear-Regression-Supervise
+# Multi-Linear-Regression-SupervisedLearning
 
 ### Importing the libraries and dataset
 
